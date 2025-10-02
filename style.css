@@ -1,0 +1,4 @@
+article {
+    break-after: page;
+    page-break-after: always;
+}
